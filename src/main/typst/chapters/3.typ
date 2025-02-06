@@ -1,4 +1,6 @@
-= Der Sherlock Holmes von Seligenburg (Lesezeit: 7 bis 8 Minuten)
+= Der Sherlock Holmes von Seligenburg
+
+Geschätzte Lesezeit: 7 bis 8 Minuten
 
 „Mario, die Super-Ratte? Ernsthaft?“
 Paul hatte den großen Drucker am Empfang der Praxis nur benutzt, weil er von dem ständigen Papierstau in seinem eigenen Gerät schon den ganzen Tag genervt war.
