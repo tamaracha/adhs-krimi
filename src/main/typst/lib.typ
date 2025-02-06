@@ -100,7 +100,7 @@
     let number = if it.numbering != none {
       if it.supplement != none [#it.supplement ]
       counter(heading).display(it.numbering)
-      h(7pt, weak: true)
+      linebreak()
     }
 
     v(5%)
