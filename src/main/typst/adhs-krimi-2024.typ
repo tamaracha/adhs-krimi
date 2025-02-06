@@ -4,10 +4,12 @@
 #let threadLink = "https://adhs-forum.adxs.org/t/forum-fiction-paul-krampitz-24-neurodiverse-tage-in-seligenburg/24086/1"
 
 #show: book.with(
-  title: "ADHS-Krimi 2024",
+  title: "Paul Krampitz: 24 neurodiverse Tage in Seligenburg",
   author: "Elementary",
   dedication: "Für Pauls inneren Kritiker",
   publishing-info: [
+    ADHS-Krimi 2024
+    #v(1fr)
     #link(threadLink)[ADHS-Forum des ADXS e.V.]
     #qrcode(threadLink)
 ],
