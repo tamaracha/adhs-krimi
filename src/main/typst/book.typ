@@ -14,8 +14,7 @@
 paper-size: "a4",
 )
 #set text(lang: "de", region: "de")
-#set heading(supplement: [Tür], numbering: "1")
-
+#show heading.where(level: 1): set heading(supplement: [Tür], numbering: "1")
 #for n in range(1, 25) {
   include("./chapters/" + str(n) + ".typ")
 }
