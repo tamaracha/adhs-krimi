@@ -13,7 +13,7 @@ typst.sourceSets {
     // Sources for documents intended for web publishing in src/web folder
     val main by registering {
         // The files to compile (without .typ extension)
-        documents = listOf("book")
+        documents = listOf("adhs-krimi-2024")
         // Values set in this map are passed to Typst as --input options
         inputs.put("version", version.toString())
     }
